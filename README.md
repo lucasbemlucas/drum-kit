@@ -25,7 +25,3 @@ Este é um projeto simples de um "Drum Kit" virtual, onde as letras "w, a, s, d,
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
-## Autor
-
-Este projeto foi desenvolvido por [Lucas Bellucci Almendra] e pode ser encontrado no GitHub em [Link para o Repositório](https://github.com/belluccaz/drum-kit).
